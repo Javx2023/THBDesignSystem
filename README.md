@@ -14,7 +14,7 @@
       
       
       
-      ![csserror1.png](/home/javx/Documentos/Notas/54bd19957943f008d2251bf70a7c5011aef882f3.png)
+      ![csserror1.png](csserror1.png)
       
       2. Igualmente con flexbox se puede garantiza un gap adecuado para mantener la disposición armónica entre las card, en el javxstyle.css se utiliza un estándard de 24px.
       
@@ -22,7 +22,7 @@
       
       4. Eliminar el H1 "Browse Floral Arrangements", el boton see all flowers lleva a esa sección y no es necesario que esté el título abajo.
          
-         ![csserror3.png](/home/javx/Documentos/Notas/56a1788d10ceac24df56202d22e472fd045bf4a7.png)
+         ![csserror3.png](csserror3.png)
 
 
 
